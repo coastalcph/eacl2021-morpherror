@@ -1,0 +1,13 @@
+bidict
+docopt
+edlib
+logzero
+numpy
+pingouin
+pycountry
+PyYAML
+scipy
+sklearn
+tqdm
+ufal.udpipe
+unimorph

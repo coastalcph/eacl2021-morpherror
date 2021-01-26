@@ -1,0 +1,5 @@
+# Path to UDPipe model files
+model_dir: /home/bollmann/data/udpipe-models/udpipe-ud-2.4-190531
+
+# Path to UDLexicon model files
+udlex_dir: /home/bollmann/data/UDLexicons.0.2
